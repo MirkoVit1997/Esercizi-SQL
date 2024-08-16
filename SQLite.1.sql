@@ -1,0 +1,1 @@
+CREATE TABLE books (book_id, title, author, genre, published_year, isbn, price, rating, stock_count)
